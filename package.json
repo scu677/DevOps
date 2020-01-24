@@ -1,0 +1,18 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "all about devops and test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "devops",
+    "test"
+  ],
+  "author": "scu677",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
